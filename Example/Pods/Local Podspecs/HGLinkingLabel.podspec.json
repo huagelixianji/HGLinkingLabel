@@ -1,0 +1,22 @@
+{
+  "name": "HGLinkingLabel",
+  "version": "0.1.0",
+  "summary": "A short description of HGLinkingLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/huagelixianji/HGLinkingLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huagelixianji": "zhenhua.hao@tcl.com"
+  },
+  "source": {
+    "git": "https://github.com/huagelixianji/HGLinkingLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HGLinkingLabel/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - HGLinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - HGLinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  HGLinkingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HGLinkingLabel: 34064964f4837c7dca8dac051b15bd0570dc6eb3
+
+PODFILE CHECKSUM: 07ccdb47537fb28a8336c1985aac0d67e0aa0ea4
+
+COCOAPODS: 1.11.3
