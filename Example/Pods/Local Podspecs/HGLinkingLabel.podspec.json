@@ -1,15 +1,15 @@
 {
   "name": "HGLinkingLabel",
   "version": "0.1.0",
-  "summary": "A short description of HGLinkingLabel.",
+  "summary": "HGLinkingLabel",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/huagelixianji/HGLinkingLabel",
+  "homepage": "https://www.baidu.com",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "huagelixianji": "zhenhua.hao@tcl.com"
+    "Addie": "zhenhua.hao@tcl.com"
   },
   "source": {
     "git": "https://github.com/huagelixianji/HGLinkingLabel.git",
@@ -18,5 +18,7 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "HGLinkingLabel/Classes/**/*"
+  "swift_versions": "5.0",
+  "source_files": "HGLinkingLabel/Classes/**/*",
+  "swift_version": "5.0"
 }
